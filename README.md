@@ -1,7 +1,7 @@
 <h1 align="center">GloboEsporte Artilheiro Scrapper</h1>
 
 <p align="center">Script desenvolvido em JavaScript, para captura dos dados de artilheiros de uma determinada rodada de um determinado campeonato</p>
-<p align="center">Esse script é de minha autoria, porém, foi baseado em um artigo de um site que ensinava como fazer scraping. Fiz apenas algumas modificações para uso próprio, ficando a vontade o programador para alterá-lo como desejar. O link do artigo pode ser acessado [clicando aqui](https://www.mundojs.com.br/2020/05/25/criando-um-web-scraper-com-nodejs/#page-content).</p>
+<p align="center">Esse script é de minha autoria, porém, foi baseado em um artigo de um site que ensinava como fazer scraping. Fiz apenas algumas modificações para uso próprio, ficando a vontade o programador para alterá-lo como desejar. O artigo pode ser acessado usando essa URL/Link: https://www.mundojs.com.br/2020/05/25/criando-um-web-scraper-com-nodejs/#page-content.</p>
 
 ## COMEÇANDO
 
