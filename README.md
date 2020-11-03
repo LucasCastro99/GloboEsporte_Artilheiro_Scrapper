@@ -20,6 +20,7 @@
   * [Pré-Requisitos](#grey_exclamation-pré-requisitos)
   * [Executando o Projeto](#play_or_pause_button-executando-o-projeto)
 * [DESENVOLVIDO COM](#hammer_and_wrench-desenvolvido-com)
+* [SERVIÇOS USADOS](#cloud-serviços-usados)
 * [AUTOR](#nerd_face-autor)
 * [LICENÇA](#memo-licença)
 
@@ -38,6 +39,9 @@ O arquivo em questão deverá ser modificado para funcionar a maneira desejada. 
 - [File System](https://nodejs.org/api/fs.html) - Biblioteca padrão de uso geral, usada para vários tipos de manipulações de arquivos usando JavaScript.
 - [Axios](https://github.com/axios/axios) - Biblioteca-Cliente para NodeJS usada ṕara fazer requisições HTTP pela Web.
 - [Cheerio](https://github.com/cheeriojs/cheerio) - Biblioteca implementada a partir do jQuery, usada para fazer algumas manipulações nos dados HTML/DOM de um determinado documento da Web.
+
+## :cloud: SERVIÇOS USADOS
+- [Globo Esporte](https://globoesporte.globo.com/) - Telejornal e Webjornal interativo que trata sobre assuntos do esporte de todas as modalidades, desde o nacional, até o internacional.
 
 ## :nerd_face: AUTOR
 <p align="center">
